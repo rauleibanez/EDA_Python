@@ -1,4 +1,6 @@
+![Alt](favicon.ico)
 # Welcome!
+
 
 Welcome to **Exploratory Data Analysis With Python and Pandas**.
 In this project, we are going to focus on **three** objectives:
