@@ -1,12 +1,5 @@
 # 📊 Exploratory Data Analysis (EDA) with Python & Pandas
-
 **Developed as part of the Python & Data Analysis Bootcamp (2024)**
-
-Welcome to the **Exploratory Data Analysis (EDA)** project repository! This project serves as a comprehensive practical demonstration of data wrangling, statistical analysis, and data visualization techniques using the Python data science stack.
-
----
-
-# 📊 Exploratory Data Analysis (EDA) with Python & Pandas
 
 Welcome to the **Exploratory Data Analysis (EDA)** project repository! This project serves as a comprehensive practical demonstration of data wrangling, statistical analysis, and data visualization techniques using the Python data science stack.
 
