@@ -81,10 +81,8 @@ The 2024 Bootcamp provided a rigorous curriculum focused on modern data science 
 - **Database & SQL:** Relational databases, SQL queries, SQLAlchemy
 - **Machine Learning & Statistics:** Scikit-learn, statistical hypothesis testing, regression & classification models
 - **Development Tools:** Git, GitHub, Jupyter Notebooks, VS Code
-
-behavioral patterns.
-2. **Automated Data Pipelines:** Built efficient ETL (Extract, Transform, Load) workflows using Pandas and SQL to streamline data ingestion.
-3. **Predictive Modeling:** Developed and evaluated machine learning classifiers to predict outcomes based on historical metrics.
+- **Automated Data Pipelines:** Built efficient ETL (Extract, Transform, Load) workflows using Pandas and SQL to streamline data ingestion.
+- **Predictive Modeling:** Developed and evaluated machine learning classifiers to predict outcomes based on historical metrics.
 
 ---
 
