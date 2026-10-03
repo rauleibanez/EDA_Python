@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Bootcamp-2024-orange.svg" alt="Bootcamp 2024">  
 </p>
 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 **Developed as part of the Python & Data Analysis Bootcamp (2024)**
 
 Welcome to the **Exploratory Data Analysis (EDA)** project repository! This project serves as a comprehensive practical demonstration of data wrangling, statistical analysis, and data visualization techniques using the Python data science stack.
